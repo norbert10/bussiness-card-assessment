@@ -1,4 +1,16 @@
+h2{
+    color: black;
+}
+
 .card article img{
-    max-height: 100%
-  float: right
+    max-height: 100%;
+    float:right;
+}
+.card{
+    width: 35em;
+  height: 22em;
+  margin: 5em auto;
+  background-colour: red;
+  border: 0.2em solid black;
+  border-radius: 1.5em;
 }
